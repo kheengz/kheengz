@@ -42,6 +42,3 @@ Feel free to reach out if you want to collaborate on a project, ask a question, 
 <!-- Add a fun fact or something unique about yourself -->
 ### Fun Fact
 I love jogging and exploring new places in my free time. 🥾🌍
-
-<!-- Optionally, you can add an image or gif -->
-![Coding](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
